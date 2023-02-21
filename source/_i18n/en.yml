@@ -71,23 +71,27 @@ features2:
       description2: The rank system will be given out for services to the community, which will allow you to receive additional bonuses, it will probably be backed up by the NFT pass system.
 
 faq:
-  subheader: Ecosystem.
+  subheader: Ecosystem
   questions:
-    - question: <i class="fa fa-book"></i> Whitepaper
+    - question: <i class="fa fa-book"></i>  Whitepaper
       answer: <a href="https://whitepaper.clack.uno">https://whitepaper.clack.uno</a>
       topic: general
-    - question: Clack DAO at Realms 
+    - question: <img src="assets/img/realm.png" class="img" alt="">  Clack DAO at Realms 
       answer: <a href="https://app.realms.today/dao/5qfNPr56sGqoH7dTDBqVWqnhHZqYj7AcouoiHFDV9ZU3">https://app.realms.today/dao/5qfNPr56sGqoH7dTDBqVWqnhHZqYj7AcouoiHFDV9ZU3</a>
       topic: general
-    - question: Raydium
+    - question: <img src="assets/img/raydium.png" class="img"</a>  Raydium
       answer: <a href="https://raydium.io/swap?inputCurrency=2Y6sQjp2PiwnQpMPSvGGYFNSQGY24YubNYXtrB9ufon9&outputCurrency=EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v&fixed=in">https://raydium.io/swap?inputCurrency=2Y6sQjp2PiwnQpMPSvGGYFNSQGY24YubNYXtrB9ufon9&outputCurrency=EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v&fixed=in</a>
       topic: general
-    - question: Birdeye
+    - question: <img src="assets/img/birdeye.png" class="img"</a>  Birdeye
       answer: <a href="https://birdeye.so/token/2Y6sQjp2PiwnQpMPSvGGYFNSQGY24YubNYXtrB9ufon9">https://birdeye.so/token/2Y6sQjp2PiwnQpMPSvGGYFNSQGY24YubNYXtrB9ufon9</a>
+      topic: general
+    - question: <img src="assets/img/paprika.png" class="img"</a>  Coinpaprika
+      answer: <a href="https://coinpaprika.com/coin/clack-clack">https://coinpaprika.com/coin/clack-clack</a>
       topic: general
     - question: P-Sale (before interaction with it please read the white paper)
       answer: <a href="https://forms.gle/nNQCA2NXKt9VphkL8">https://forms.gle/nNQCA2NXKt9VphkL8</a>
       topic: general
+
 
 faq2:
   subheader2: Burns
