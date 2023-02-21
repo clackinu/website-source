@@ -1,0 +1,25 @@
+{%- assign lang = site.translations[site.lang] -%}
+{%- assign baseurl = site.url | append: lang.global.link_index -%}
+
+<footer id="footer" class="section bg-dark">
+  <div class="d-flex justify-content-center">
+    <div class="row">
+      <div class="col-md-12">
+          <p><strong><em class="d-block">{{ lang.footer.tagline | liquify }}</em></strong></p>
+          <ul class="social-links">
+            <li class="dx-animate"><a href="{{ site.exlink_discord }}"><i class="fab fa-discord"></i></a></li>
+            <li class="dx-animate"><a href="{{ site.exlink_twitter }}"><i class="fab fa-twitter"></i></a></li>
+            <li class="dx-animate"><a href="{{ site.exlink_telegram }}"><i class="fab fa-telegram"></i></a></li>
+            <li class="dx-animate"><a href="{{ site.exlink_github }}"><i class="fab fa-github"></i></a></li>
+            <li class="dx-animate"><a href="{{ site.exlink_bitcointalk }}"><i class="fab fa-btc"></i></a></li>
+			<li class="dx-animate"><a href="{{ site.exlink_whitepaper }}"><i class="fa fa-book"></i></a></li>
+          </ul>
+		  <div class="powered-by mt-3 text-center">
+          <a href="{{ site.exlink_clack }}">
+          <div>{{ lang.footer.powered_by | liquify }}</div>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>

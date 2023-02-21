@@ -1,0 +1,109 @@
+global:
+  lang: English # Do not translate
+  locale: en_us # Do not translate
+  meta_title: Clack
+  meta_description: Clack - Meme Token at Solana BlockChain.
+  meta_keywords: Mem coin, blockchain, Solana, Clack, SOL, token, Mem token, Do you know the way?, Clack Clack, Blochain protocol
+  link_index: '/'
+  link_features: '#features' # Do not translate
+
+nav:
+  menu: Menu
+  home: Home
+  features: Why Clack?
+  setup_menu: Setup
+  macos: MacOS
+  windows: Windows
+  linux: Linux
+
+footer:
+  tagline: Do you know the way? No ? I found it, the crypto way clack clack!
+  powered_by: Powered by Clack 2023
+  features: Why Clack?
+
+index:
+  header: Clack - Meme Token at Solana BlockChain 
+  subheader: Do you know the way? No ? I found it, the crypto way clack clack!
+
+features:
+  subheader: Why Clack? 
+  intro: Why Not? DAO system. Funny mini games, Utility NFT's, Airdrop's, Staking and more. All for community created by community. You can say this is another shit meme token at Solana Blockchain yes and no, there will be a more serious attitude and an attempt not to repeat the mistakes of other projects. Token burning for important events also will be present.
+  items:
+    - feature: Support Liqudity pools
+      icon: <i class="fas fa-layer-group"></i> # Do not translate
+      description: We wil use money from sales Stacking solutions and other non community based NFT, service to support Liqudity pool and price at market's.
+    - feature: AirDrops
+      icon: <i class="fas fa-hand-holding-usd"></i> # Do not translate
+      description: There will be rewardet good projects what give use cases for Clack. Reward will depend at project quality. Ordinary users will also get a chance to be rewarded in various promotions and events.
+    - feature: Rank System
+      icon: <i class="fas fa-star"></i> # Do not translate
+      description: The rank system will be given out for services to the community, which will allow you to receive additional bonuses, it will probably be backed up by the NFT pass system.
+    - feature: Marketing/Advertising
+      icon: <i class="fas fa-bullhorn"></i> # Do not translate
+      description: Active promotion on all possible social media platforms, avoiding ways that can harm the project.
+    - feature: ProjectDAO - ClackDAO
+      icon: <i class="fab fa-react"></i> # Do not translate
+      description: Each user will be able to join the DAO of the Project with a certain number of tokens, but in the future the system may be transferred to the NFT pass and may be excluded after the full formation of the main team of the DAO, but the possibility of the existence of Project SubDAO is not excluded.
+    - feature: Listing on ceralized exchanges.
+      icon: <i class="fas fa-coins"></i> # Do not translate
+      description: For listing on centralized exchanges, we will have to go perhaps a short or a long way, but still lean towards option 1. This decision will be made by the entire DAO of the project, the community is the driving force for listings on large projects, such as binance , bybit etc.
+    - feature: Expansion
+      icon: <i class="fas fa-globe-americas"></i> # Do not translate
+      description: It is planned to expand to other platforms ( Blockchain's - ETH, BSC, Polygon and other ) by wrapping the asset, which will open up other ecosystems for us that are not available on Solana.
+    - feature: Burning
+      icon: <i class="fas fa-fire"></i> # Do not translate
+      description: A lot of coins will be burned to maintain the liquidity of the project, burning will be produced for significant and not only events.
+    - feature: Clack Specification
+      icon: <i class="fas fa-cogs"></i> # Do not translate
+      description: <br> Blockchain - Solana <br> Token name - Clack <br> Symbol - Clack  <br> Decimals - 5 <br> Minting - Locked <br> Starting Supply - 100,000,000,000,000.00 <br> Token Address - <a href="https://solscan.io/token/2Y6sQjp2PiwnQpMPSvGGYFNSQGY24YubNYXtrB9ufon9">2Y6sQjp2PiwnQpMPSvGGYFNSQGY24YubNYXtrB9ufon9</a>
+
+features2:
+  subheader2: Why Clack? 
+  items2:
+    - feature2: Support Liqudity pools
+      icon2: <i class="fas fa-layer-group"></i> # Do not translate
+      description2: We wil use money from sales Stacking solutions and other non community based NFT, service to support Liqudity pool and price at market's.
+    - feature2: AirDrops
+      icon2: <i class="fas fa-hand-holding-usd"></i> # Do not translate
+      description2: There will be rewardet good projects what give use cases for Clack. Reward will depend at project quality. Ordinary users will also get a chance to be rewarded in various promotions and events.
+    - feature2: Rank System
+      icon2: <i class="fas fa-star"></i> # Do not translate
+      description2: The rank system will be given out for services to the community, which will allow you to receive additional bonuses, it will probably be backed up by the NFT pass system.
+
+faq:
+  subheader: Ecosystem.
+  questions:
+    - question: <i class="fa fa-book"></i> Whitepaper
+      answer: <a href="https://whitepaper.clack.uno">https://whitepaper.clack.uno</a>
+      topic: general
+    - question: Clack DAO at Realms 
+      answer: <a href="https://app.realms.today/dao/5qfNPr56sGqoH7dTDBqVWqnhHZqYj7AcouoiHFDV9ZU3">https://app.realms.today/dao/5qfNPr56sGqoH7dTDBqVWqnhHZqYj7AcouoiHFDV9ZU3</a>
+      topic: general
+    - question: Raydium
+      answer: <a href="https://raydium.io/swap?inputCurrency=2Y6sQjp2PiwnQpMPSvGGYFNSQGY24YubNYXtrB9ufon9&outputCurrency=EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v&fixed=in">https://raydium.io/swap?inputCurrency=2Y6sQjp2PiwnQpMPSvGGYFNSQGY24YubNYXtrB9ufon9&outputCurrency=EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v&fixed=in</a>
+      topic: general
+    - question: Birdeye
+      answer: <a href="https://birdeye.so/token/2Y6sQjp2PiwnQpMPSvGGYFNSQGY24YubNYXtrB9ufon9">https://birdeye.so/token/2Y6sQjp2PiwnQpMPSvGGYFNSQGY24YubNYXtrB9ufon9</a>
+      topic: general
+    - question: P-Sale (before interaction with it please read the white paper)
+      answer: <a href="https://forms.gle/nNQCA2NXKt9VphkL8">https://forms.gle/nNQCA2NXKt9VphkL8</a>
+      topic: general
+
+faq2:
+  subheader2: Burns
+  questions2:
+    - question2: Burn №1
+      answer2: <a href="https://solscan.io/tx/2XY5QzycE5sBeob6EckEi6xbgX6TX5e57yMKeC9eMfvMmBZFx4i2F3rSsYFjnv1hNqY3rf3JGBTdSDPwdc1NyCCp">Test Burn 1 Token</a> <BR> February 07 2023 19:16:39 UTC 
+      topic2: general
+    - question2: Burn №2
+      answer2: <a href="https://solscan.io/tx/51aRT3o7Br18f2ioEQtnT5N5srqsAmSZ2EwXzJj3CY1GsfYxVZFEvN7jDD4yds9PgG8dZQ8Gqeo187yyXiwiob7X">Burn 1B Tokens</a> <BR> February 15, 2023 09:48:23 UTC
+      topic2: general
+    - question2: Burn №3
+      answer2: <a href="https://solscan.io/tx/29o9Kiq9g7thfFCHycHMfpbE13vrBXusY22PMvoviUPVaZWNgmUBFG5avcBpbkcUKJFVhuydeNoSPXaKQRB7Pwyq">Burn 5B Tokens</a> <BR> February 18, 2023 at 01:35:57 UTC
+      topic2: general
+    - question2: Burn №4
+      answer2: soon
+      topic2: general
+e404:
+  title: Error
+  error: The requested page could not be found.

@@ -1,0 +1,49 @@
+# Read about configuration here: https://jekyllrb.com/docs/configuration/options/
+name: 'Clack'
+title: 'Clack'
+description: 'Clack - Meme Token at Solana BlockChain.'
+keywords: 'Mem coin, blockchain, Solana, Clack, SOL, token, Mem token, Do you know the way?, Clack Clack, Blochain protocol'
+url: 'https://clack.uno' # Use for production
+permalink: 'pretty' # Do not change this, it will break all links
+source: 'source/'
+destination: 'build/'
+data_dir: '_data/'
+timezone: 'America/New_York'
+markdown: 'kramdown'
+livereload: true
+port: 4400
+sass:
+  style: 'compressed'
+# Plugins ignored if building with Github pages
+plugins: 
+- 'jekyll-sitemap'
+- 'jekyll-multiple-languages-plugin'
+- 'liquify'
+
+# Localization settings
+# The first lang is the default/root site
+# languages: ["en","zh","ko","es","ar","ru","it","de"]
+languages: ["en"]
+# exclude_from_localizations: ["assets/"]
+
+
+# !!!Announcement notices are not integrated yet!!!
+# Sticky announcement messages, expiration in epoch time (s)
+# To add more announcements the template needs to be updated
+announcement1: ''
+announcement1_expiration: ''
+announcement2: ''
+announcement2_expiration: ''
+announcement3: ''
+announcement3_expiration: ''
+
+# External Links
+exlink_clack: 'https://clack.uno'
+
+# Social Links
+exlink_github: 'https://github.com/clackinu'
+exlink_discord: 'https://discord.gg/BfkCHQkUTq'
+exlink_twitter: 'https://twitter.com/clack_inu'
+exlink_telegram: 'https://t.me/Clackinu'
+exlink_bitcointalk: 'https://bitcointalk.org/index.php?topic=5436328.msg61634410#msg61634410'
+exlink_whitepaper: 'https://whitepaper.clack.uno'

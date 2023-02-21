@@ -1,0 +1,30 @@
+---
+title: global.meta_title
+description: global.meta_description
+keywords: global.meta_keywords
+layout: default
+namespace: home
+permalink: /
+---
+
+
+{%- assign lang = site.translations[site.lang] -%}
+{%- assign baseurl = site.url | append: lang.global.link_index -%}
+
+<header id="hero">
+  <div class="container">
+    <div class="row justify-content-center pb-5">
+      <div class="text-center align-self-center dx-animate">
+        <h1 class="mb-4">{{ lang.index.header }}</h1>
+        <p class="mb-4">{{ lang.index.subheader }}</p>
+		<img src="assets/img/clacklogo.png" class="center img" alt="">
+      </div>
+    </div>
+  </div>
+</header>
+
+{% include sections/features.html %}
+{% include sections/faq.html %}
+{% include sections/faq2.html %}
+<!-- {% include sections/blog1.html %} -->
+

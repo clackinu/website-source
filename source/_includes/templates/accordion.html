@@ -1,0 +1,32 @@
+{%- assign lang = site.translations[site.lang] -%}
+
+{%- if 
+  include.section and
+  include.section != '' and
+  include.header and
+  include.header != ''
+  include.num and
+  include.num != ''
+  include.content and
+  include.content != ''
+-%}
+  <div class="card h-shadow h-scale">
+    <div class="card-header">
+      <a class="card-link" 
+          data-toggle="collapse" 
+          href="#{{ include.section | liquify }}{{ include.num }}" 
+          aria-expanded="{% if include.expanded %}true{% else %}false{% endif %}" 
+          aria-controls="{{ include.section | liquify }}{{ include.num }}">
+        <div class="text">{{ include.header | liquify }}</div>
+        <span class="collapsed"><i class="fas fa-plus-circle"></i></span>
+        <span class="expanded"><i class="fas fa-minus-circle"></i></span>
+      </a>
+    </div>
+    <div id="{{ include.section | liquify }}{{ include.num }}" 
+          class="collapse {% if include.expanded %}show{% endif %}">
+      <div class="card-body">
+        {{ include.content | liquify | markdownify }}
+      </div>
+    </div>
+  </div>
+{%- endif -%}
