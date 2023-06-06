@@ -12,30 +12,28 @@
           <li class="nav-item"><a href="{{ baseurl }}" class="nav-link">{{ lang.nav.home | liquify }}</a></li>
           <li class="nav-item "><a href="{{ baseurl | append: '#features' }}" class="nav-link">{{ lang.nav.features | liquify }}</a></li>
           {%- comment -%}
-		  <li class="nav-item "><a href="{{ baseurl | append: '#faq' }}" class="nav-link">{{ lang.nav.faq | liquify }}</a></li>
+          <li class="nav-item "><a href="{{ baseurl | append: '#faq' }}" class="nav-link">{{ lang.nav.faq | liquify }}</a></li>
           <li class="nav-item "><a href="{{ baseurl | append: '#faq2' }}" class="nav-link">{{ lang.nav.faq2 | liquify }}</a></li>
           {%- endcomment -%}
-          {%- comment -%}
-            <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle" href="#" id="setupDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                <i class="fas fa-language"></i> 
-                {{ lang.global.lang }}
-              </a>
-              <div class="dropdown-menu" aria-labelledby="setupDropdown">
-                <a class="dropdown-item" href="{{ site.url }}/">English</a>
-                <!-- <a class="dropdown-item" href="{{ site.url }}/zh/">中文</a> -->
-                <!-- <a class="dropdown-item" href="{{ site.url }}/ko/">한국어</a> -->
-                <!-- <a class="dropdown-item" href="{{ site.url }}/ru/">Pусский</a> -->
-                <!-- <a class="dropdown-item" href="{{ site.url }}/es/">Español</a> -->
-                <!-- <a class="dropdown-item" href="{{ site.url }}/ar/">عربى</a> -->
-                <!-- <a class="dropdown-item" href="{{ site.url }}/ja/">日本語</a> -->
-                <!-- <a class="dropdown-item" href="{{ site.url }}/de/">Deutsch</a> -->
-                <!-- <a class="dropdown-item" href="{{ site.url }}/fr/">Français</a> -->
-                <!-- <a class="dropdown-item" href="{{ site.url }}/it/">Italian</a> -->
-              </div>
-            </li>
-          {%- endcomment -%}
-
+          
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="setupDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              <i class="fas fa-language"></i> 
+              {{ lang.global.lang }}
+            </a>
+            <div class="dropdown-menu" aria-labelledby="setupDropdown">
+              <a class="dropdown-item" href="{{ site.url }}/">English</a>
+              <a class="dropdown-item" href="{{ site.url }}/zh/">中文-Chinese</a>
+              <!-- <a class="dropdown-item" href="{{ site.url }}/ko/">한국어</a> -->
+              <!-- <a class="dropdown-item" href="{{ site.url }}/ru/">Pусский</a> -->
+              <!-- <a class="dropdown-item" href="{{ site.url }}/es/">Español</a> -->
+              <!-- <a class="dropdown-item" href="{{ site.url }}/ar/">عربى</a> -->
+              <!-- <a class="dropdown-item" href="{{ site.url }}/ja/">日本語</a> -->
+              <!-- <a class="dropdown-item" href="{{ site.url }}/de/">Deutsch</a> -->
+              <!-- <a class="dropdown-item" href="{{ site.url }}/fr/">Français</a> -->
+              <!-- <a class="dropdown-item" href="{{ site.url }}/it/">Italian</a> -->
+            </div>
+          </li>
 
         </ul>
       </div>

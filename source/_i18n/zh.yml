@@ -1,0 +1,113 @@
+global:
+  lang: 中文-Chinese # Do not translate
+  locale: zh-cn # Do not translate
+  meta_title: Clack
+  meta_description: Clack 是 Solana 区块链上的模因代币。
+  meta_keywords: Mem coin, blockchain, Solana, Clack, SOL, token, Mem token, Do you know the way?, Clack Clack, Blochain protocol, Mem硬币, 区块链, 令牌, Mem令牌, 你知道路吗？,区块链协议
+  link_index: '/'
+  link_features: '#features' # Do not translate
+
+nav:
+  menu: Menu
+  home: 首页
+  features: 为什么是Clack?
+  setup_menu: Setup
+  macos: MacOS
+  windows: Windows
+  linux: Linux
+
+footer:
+  tagline: 你知道路径吗？不知道？我找到了，这是通向加密货币世界的路径，clack clack！
+  powered_by: 版权所有 Clack 2023
+  features: 为什么选择Clack?
+
+index:
+  header: Clack 是 Solana 区块链上的模因代币。
+  subheader: 你知道路径吗？不知道？我找到了，这是通向加密货币世界的路径，clack clack！
+
+features:
+  subheader: 为什么选择Clack?
+  intro: 为什么不呢？DAO系统。有趣的小游戏，实用性NFT，空投，质押等等。这都是由社区为社区创造的。你可能会说这只是Solana区块链上的又一种低级趣味代币，但我们将以更为严肃的态度来对待，试图不重蹈其他项目的覆辙。重要活动的代币销毁也会存在。
+  items:
+    - feature: 支持流动性池
+      icon: <i class="fas fa-layer-group"></i> # Do not translate
+      description: 我们将利用销售堆叠解决方案和其他非社区基础的NFT服务的资金来支持流动性池，并在市场上定价。
+    - feature: 空投
+      icon: <i class="fas fa-hand-holding-usd"></i> # Do not translate
+      description: 将奖励给为Clack提供使用案例的优秀项目。奖励将取决于项目的质量。普通用户也有机会在各种促销和活动中获得奖励。
+    - feature: 等级系统
+      icon: <i class="fas fa-star"></i> # Do not translate
+      description: 等级系统将根据对社区的贡献进行分发，允许您获得额外的奖励，可能会得到NFT通行证系统的支持。
+    - feature: 市场营销/广告
+      icon: <i class="fas fa-bullhorn"></i> # Do not translate
+      description: 在所有可能的社交媒体平台上进行积极推广，避免可能损害项目的方式。
+    - feature: ProjectDAO - ClackDAO
+      icon: <i class="fab fa-react"></i> # Do not translate
+      description: 每个用户都可以通过一定数量的代币加入项目的DAO，但未来该系统可能会转移到NFT通行证，并在DAO的主要团队完全形成后可能被排除在外，但不排除存在Project SubDAO能性。
+    - feature: 在中心化交易所上市。
+      icon: <i class="fas fa-coins"></i> # Do not translate
+      description: 为了在中心化交易所上市，我们可能需要走一段时间，但仍然倾向于选择1。这个决定将由整个项目的DAO做出，社区是推动大型项目（例如币安、币比、火币等）上市的动力。
+    - feature: 扩张
+      icon: <i class="fas fa-globe-americas"></i> # Do not translate
+      description: 计划通过包装资产来扩展到其他平台（区块链 - 以太坊、BSC、Polygon等），这将为我们开启其他在Solana上不可用的生态系统。
+    - feature: 烧毁
+      icon: <i class="fas fa-fire"></i> # Do not translate
+      description: 为了维持项目的流动性，将烧毁大量代币，烧毁将针对重大和非重大事件进行。
+    - feature: Clack规格
+      icon: <i class="fas fa-cogs"></i> # Do not translate
+      description: <br> 区块链 - Solana <br> 代币名称 - Clack <br> 符号 - Clack  <br> 小数位数 - 5 <br> 铸币 - 锁定 <br> 初始供应量 - 100,000,000,000,000.00 <br> 代币地址 - <a href="https://solscan.io/token/2Y6sQjp2PiwnQpMPSvGGYFNSQGY24YubNYXtrB9ufon9">2Y6sQjp2PiwnQpMPSvGGYFNSQGY24YubNYXtrB9ufon9</a>
+
+features2:
+  subheader2: 为什么选择Clack?
+  items2:
+    - feature2: 支持流动性池
+      icon2: <i class="fas fa-layer-group"></i> # Do not translate
+      description2: 我们将利用销售堆叠解决方案和其他非社区基础的NFT服务的资金来支持流动性池，并在市场上定价。
+    - feature2: 空投
+      icon2: <i class="fas fa-hand-holding-usd"></i> # Do not translate
+      description2: 将奖励给为Clack提供使用案例的优秀项目。奖励将取决于项目的质量。普通用户也有机会在各种促销和活动中获得奖励。
+    - feature2: 等级系统
+      icon2: <i class="fas fa-star"></i> # Do not translate
+      description2: 等级系统将根据对社区的贡献进行分发，允许您获得额外的奖励，可能会得到NFT通行证系统的支持。
+
+faq:
+  subheader: 生态系统
+  questions:
+    - question: <i class="fa fa-book"></i>  白皮书
+      answer: <a href="https://whitepaper.clack.uno">https://whitepaper.clack.uno</a>
+      topic: general
+    - question: <img src="assets/img/realm.png" class="img" alt="">  Clack DAO at Realms 
+      answer: <a href="https://app.realms.today/dao/Clack%20DAO">https://app.realms.today/dao/Clack%20DAO</a>
+      topic: general
+    - question: <img src="assets/img/raydium.png" class="img"</a>  Raydium
+      answer: <a href="https://raydium.io/swap?inputCurrency=2Y6sQjp2PiwnQpMPSvGGYFNSQGY24YubNYXtrB9ufon9&outputCurrency=EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v&fixed=in">https://raydium.io/swap?inputCurrency=2Y6sQjp2PiwnQpMPSvGGYFNSQGY24YubNYXtrB9ufon9&outputCurrency=EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v&fixed=in</a>
+      topic: general
+    - question: <img src="assets/img/birdeye.png" class="img"</a>  Birdeye
+      answer: <a href="https://birdeye.so/token/2Y6sQjp2PiwnQpMPSvGGYFNSQGY24YubNYXtrB9ufon9">https://birdeye.so/token/2Y6sQjp2PiwnQpMPSvGGYFNSQGY24YubNYXtrB9ufon9</a>
+      topic: general
+    - question: <img src="assets/img/paprika.png" class="img"</a>  Coinpaprika
+      answer: <a href="https://coinpaprika.com/coin/clack-clack">https://coinpaprika.com/coin/clack-clack</a>
+      topic: general
+    - question: P-Sale (before interaction with it please read the white paper)
+      answer: <a href="https://forms.gle/nNQCA2NXKt9VphkL8">https://forms.gle/nNQCA2NXKt9VphkL8</a>
+      topic: general
+
+
+faq2:
+  subheader2: 已销毁的代币
+  questions2:
+    - question2: 燃烧 №1
+      answer2: <a href="https://solscan.io/tx/2XY5QzycE5sBeob6EckEi6xbgX6TX5e57yMKeC9eMfvMmBZFx4i2F3rSsYFjnv1hNqY3rf3JGBTdSDPwdc1NyCCp">测试燃烧1个代币</a> <BR> 2023年2月7日 19:16:39 UTC 
+      topic2: general
+    - question2: 燃烧 №2
+      answer2: <a href="https://solscan.io/tx/51aRT3o7Br18f2ioEQtnT5N5srqsAmSZ2EwXzJj3CY1GsfYxVZFEvN7jDD4yds9PgG8dZQ8Gqeo187yyXiwiob7X">燃烧10亿代币</a> <BR> 2023年2月15日 09:48:23 UTC
+      topic2: general
+    - question2: 燃烧 №3
+      answer2: <a href="https://solscan.io/tx/29o9Kiq9g7thfFCHycHMfpbE13vrBXusY22PMvoviUPVaZWNgmUBFG5avcBpbkcUKJFVhuydeNoSPXaKQRB7Pwyq">燃烧50亿代币</a> <BR> 2023年2月18日 01:35:57 UTC
+      topic2: general
+    - question2: 燃烧 №4
+      answer2: 很快
+      topic2: general
+e404:
+  title: 错误
+  error: 无法找到请求的页面。

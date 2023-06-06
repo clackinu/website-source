@@ -3,7 +3,7 @@ global:
   locale: en_us # Do not translate
   meta_title: Clack
   meta_description: Clack - Meme Token at Solana BlockChain.
-  meta_keywords: Mem coin, blockchain, Solana, Clack, SOL, token, Mem token, Do you know the way?, Clack Clack, Blochain protocol
+  meta_keywords: Mem coin, blockchain, Solana, Clack, SOL, token, Mem token, Do you know the way?, Clack Clack, Blochain protocol, Mem硬币, 区块链, 令牌, Mem令牌, 你知道路吗？,区块链协议
   link_index: '/'
   link_features: '#features' # Do not translate
 
@@ -18,7 +18,7 @@ nav:
 
 footer:
   tagline: Do you know the way? No ? I found it, the crypto way clack clack!
-  powered_by: Powered by Clack 2023
+  powered_by: Copyright © Clack 2023
   features: Why Clack?
 
 index:
@@ -52,7 +52,7 @@ features:
       description: It is planned to expand to other platforms ( Blockchain's - ETH, BSC, Polygon and other ) by wrapping the asset, which will open up other ecosystems for us that are not available on Solana.
     - feature: Burning
       icon: <i class="fas fa-fire"></i> # Do not translate
-      description: A lot of coins will be burned to maintain the liquidity of the project, burning will be produced for significant and not only events.
+      description: A lot of tokens will be burned to maintain the liquidity of the project, burning will be produced for significant and not only events.
     - feature: Clack Specification
       icon: <i class="fas fa-cogs"></i> # Do not translate
       description: <br> Blockchain - Solana <br> Token name - Clack <br> Symbol - Clack  <br> Decimals - 5 <br> Minting - Locked <br> Starting Supply - 100,000,000,000,000.00 <br> Token Address - <a href="https://solscan.io/token/2Y6sQjp2PiwnQpMPSvGGYFNSQGY24YubNYXtrB9ufon9">2Y6sQjp2PiwnQpMPSvGGYFNSQGY24YubNYXtrB9ufon9</a>
@@ -77,7 +77,7 @@ faq:
       answer: <a href="https://whitepaper.clack.uno">https://whitepaper.clack.uno</a>
       topic: general
     - question: <img src="assets/img/realm.png" class="img" alt="">  Clack DAO at Realms 
-      answer: <a href="https://app.realms.today/dao/5qfNPr56sGqoH7dTDBqVWqnhHZqYj7AcouoiHFDV9ZU3">https://app.realms.today/dao/5qfNPr56sGqoH7dTDBqVWqnhHZqYj7AcouoiHFDV9ZU3</a>
+      answer: <a href="https://app.realms.today/dao/Clack%20DAO">https://app.realms.today/dao/Clack%20DAO</a>
       topic: general
     - question: <img src="assets/img/raydium.png" class="img"</a>  Raydium
       answer: <a href="https://raydium.io/swap?inputCurrency=2Y6sQjp2PiwnQpMPSvGGYFNSQGY24YubNYXtrB9ufon9&outputCurrency=EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v&fixed=in">https://raydium.io/swap?inputCurrency=2Y6sQjp2PiwnQpMPSvGGYFNSQGY24YubNYXtrB9ufon9&outputCurrency=EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v&fixed=in</a>

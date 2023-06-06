@@ -23,7 +23,7 @@ plugins:
 # Localization settings
 # The first lang is the default/root site
 # languages: ["en","zh","ko","es","ar","ru","it","de"]
-languages: ["en"]
+languages: ["en","zh"]
 # exclude_from_localizations: ["assets/"]
 
 
